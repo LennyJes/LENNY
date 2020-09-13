@@ -1,5 +1,6 @@
 # Hi there it's me Lenny :smile:
-* I am pursuing final year biomedical engineering
-* I am cureently working on the area of Machine Learning
-* (https://www.linkedin.com/in/lenny-c/)
+* :raising_hand: I am pursuing final year biomedical engineering
+* :thumbsup:I am currently working on the area of Machine Learning
+* :e-mail: (lennya2000@gmail.com)
+* :headphones:Music is my best friend
 
