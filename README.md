@@ -1,4 +1,4 @@
-# Hi there it's me Lenny :smile:
+# Hi there it's me Lenny :wave:
 * :raising_hand: I am pursuing final year biomedical engineering
 * :thumbsup:I am currently working on the area of Machine Learning
 * :e-mail: lennya2000@gmail.com
